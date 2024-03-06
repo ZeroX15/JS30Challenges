@@ -15,4 +15,7 @@ O objetivo era criar algo que possa ser mutável, usando variáveis do CSS, que 
 Aqui o objetivo era aprender sobre as funcionaliades de uma array, e como manipular os dados da array.
 
 ### **5 - Flex Panels Image Gallery**
+Aqui o objetivo era conhecer algumas funcionalidades do flex em CSS, como ele se comporta na tela.
+
+## **6 - Ajax Type Ahead**
 Em breve.
