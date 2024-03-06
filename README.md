@@ -12,4 +12,7 @@ O objetivo era criar um relógio BEM minimalista e estiloso com CSS, mas também
 O objetivo era criar algo que possa ser mutável, usando variáveis do CSS, que podem ser alterados por scripts.
 
 ### **4 - Array Cardio Dia 1**
+Aqui o objetivo era aprender sobre as funcionaliades de uma array, e como manipular os dados da array.
+
+### **5 - Flex Panels Image Gallery**
 Em breve.
