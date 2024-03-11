@@ -24,4 +24,4 @@ Aqui o objetivo era colocar em pratica a consulta de arrays, como se fosse um me
 Aqui, tinha mais funcionalidades de array.
 
 ## **8 - Diversão com HTML5 Canvas**
-Em breve.
+Basicamente constava em criar um quadro branco onde é possível rabiscar, havia muitas propriedades, e o uso de mouse events.
