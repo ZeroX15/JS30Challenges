@@ -18,4 +18,7 @@ Aqui o objetivo era aprender sobre as funcionaliades de uma array, e como manipu
 Aqui o objetivo era conhecer algumas funcionalidades do flex em CSS, como ele se comporta na tela.
 
 ## **6 - Ajax Type Ahead**
+Aqui o objetivo era colocar em pratica a consulta de arrays, como se fosse um mecanismo de busca qualquer.
+
+## **7 - Array Cardio Dia 2**
 Em breve.
