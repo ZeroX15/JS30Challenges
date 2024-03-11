@@ -21,4 +21,7 @@ Aqui o objetivo era conhecer algumas funcionalidades do flex em CSS, como ele se
 Aqui o objetivo era colocar em pratica a consulta de arrays, como se fosse um mecanismo de busca qualquer.
 
 ## **7 - Array Cardio Dia 2**
+Aqui, tinha mais funcionalidades de array.
+
+## **8 - Diversão com HTML5 Canvas**
 Em breve.
