@@ -17,11 +17,14 @@ Aqui o objetivo era aprender sobre as funcionaliades de uma array, e como manipu
 ### **5 - Flex Panels Image Gallery**
 Aqui o objetivo era conhecer algumas funcionalidades do flex em CSS, como ele se comporta na tela.
 
-## **6 - Ajax Type Ahead**
+### **6 - Ajax Type Ahead**
 Aqui o objetivo era colocar em pratica a consulta de arrays, como se fosse um mecanismo de busca qualquer.
 
-## **7 - Array Cardio Dia 2**
+### **7 - Array Cardio Dia 2**
 Aqui, tinha mais funcionalidades de array.
 
-## **8 - Diversão com HTML5 Canvas**
+### **8 - Diversão com HTML5 Canvas**
 Basicamente constava em criar um quadro branco onde é possível rabiscar, havia muitas propriedades, e o uso de mouse events.
+
+### **9 - 14 truques que os Devs deveriam saber**
+Em breve.
