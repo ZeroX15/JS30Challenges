@@ -33,4 +33,4 @@ Basicamente eram alguns macetes de console.
 Basicamente era sobre mexer com eventos de checkbox.
 
 ### **11 - HTML Video Player**
-Em breve.
+Aqui, o objetivo era criar um video player e aprender um pouco sobre as propriedades de vídeo, barras de progresso, botões.
