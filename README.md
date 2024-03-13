@@ -34,3 +34,6 @@ Basicamente era sobre mexer com eventos de checkbox.
 
 ### **11 - HTML Video Player**
 Aqui, o objetivo era criar um video player e aprender um pouco sobre as propriedades de vídeo, barras de progresso, botões.
+
+### **12 - Konami code**
+Basicamente era uma forma de comandos que digitados em uma certa ordem, alguma coisa iria acontecer.
