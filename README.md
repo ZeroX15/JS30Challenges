@@ -27,4 +27,10 @@ Aqui, tinha mais funcionalidades de array.
 Basicamente constava em criar um quadro branco onde é possível rabiscar, havia muitas propriedades, e o uso de mouse events.
 
 ### **9 - 14 truques que os Devs deveriam saber**
+Basicamente eram alguns macetes de console.
+
+### **10 - Segure shift para selecionar**
+Basicamente era sobre mexer com eventos de checkbox.
+
+### **11 - HTML Video Player**
 Em breve.
