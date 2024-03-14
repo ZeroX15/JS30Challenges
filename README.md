@@ -45,4 +45,7 @@ O objetivo era aprender sobre usar funcionalidades de scroll e as suas proprieda
 O objetivo era saber a diferença entre tornar arrays e objetos como referência e apenas copiá-las.
 
 ### **15 - LocalStorage e delegação de Eventos**
+Houve muitas coisas, mas o foco principal era o LocalStorage, onde é possível manter informações de variáveis, arrays, etc. mesmo recarregando a página; e a delegação de eventos, no qual as instruções são passadas de propriedades parent para seus children, independentemente se forem geradas novos children ou não.
+
+### **16 - CSS Text Shadow Mouse Move Effect**
 Em breve.
