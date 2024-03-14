@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        /*
+        let age = 100
+        let age2 = age
+        age = 200
+        */
+
+        const players = ['John', 'Wilma', 'Bob', 'Smith']
+
+        // Isso vai mudar em ambos
+        const team = players
+        team[3] = 'Lux'
+
+        // isso faz efeito na variável que chama a array, usando apenas como referencia
+        const team2 = players.slice()
+        team2[3] = Lux
+
+        // um efeito parecido com o anterior, ele pega uma array vazia e junta com a existente
+        const team3 = [].concat(players)
+
+        // esse também, mas usando ES6 spreads
+        const team4 = [...players]
+
+        // esse também
+        const team5 = Array.from(players)
+
+
+        const person = {
+            name: 'John',
+            age: 80
+        }
+
+        // Algo similar com o primeiro exemplo, muda em ambos os objetos
+        const captain = person
+        captain.number = 99
+
+        // aqui muda apenas no novo objeto, mantendo o original intacto
+        const cap2 = Object.assign({}, person, { number: 99})
+
+        // um dia, haverá spread objects no JS
+        //const cap3 = {...person}
+    </script>
+</body>
+</html>

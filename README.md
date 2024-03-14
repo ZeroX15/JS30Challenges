@@ -42,4 +42,7 @@ Basicamente era uma forma de comandos que digitados em uma certa ordem, alguma c
 O objetivo era aprender sobre usar funcionalidades de scroll e as suas propriedades dentro de eventListeners.
 
 ### **14 - Objetos e Arrays - Referência versus Cópia**
+O objetivo era saber a diferença entre tornar arrays e objetos como referência e apenas copiá-las.
+
+### **15 - LocalStorage e delegação de Eventos**
 Em breve.
