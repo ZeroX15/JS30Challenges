@@ -48,4 +48,4 @@ O objetivo era saber a diferença entre tornar arrays e objetos como referência
 Houve muitas coisas, mas o foco principal era o LocalStorage, onde é possível manter informações de variáveis, arrays, etc. mesmo recarregando a página; e a delegação de eventos, no qual as instruções são passadas de propriedades parent para seus children, independentemente se forem geradas novos children ou não.
 
 ### **16 - CSS Text Shadow Mouse Move Effect**
-Em breve.
+O objetivo era aprender algumas propriedades do evento mousemove com o textshadow do CSS.
