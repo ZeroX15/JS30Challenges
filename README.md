@@ -37,3 +37,9 @@ Aqui, o objetivo era criar um video player e aprender um pouco sobre as propried
 
 ### **12 - Konami code**
 Basicamente era uma forma de comandos que digitados em uma certa ordem, alguma coisa iria acontecer.
+
+### **13 - Slide in scroll**
+O objetivo era aprender sobre usar funcionalidades de scroll e as suas propriedades dentro de eventListeners.
+
+### **14 - Objetos e Arrays - Referência versus Cópia**
+Em breve.
