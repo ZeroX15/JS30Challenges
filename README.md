@@ -49,3 +49,6 @@ Houve muitas coisas, mas o foco principal era o LocalStorage, onde é possível 
 
 ### **16 - CSS Text Shadow Mouse Move Effect**
 O objetivo era aprender algumas propriedades do evento mousemove com o textshadow do CSS.
+
+### **17 - Ordenando nomes sem artigos**
+O objetivo era exercitar o uso do método sort com expressões regulares.
