@@ -52,3 +52,6 @@ O objetivo era aprender algumas propriedades do evento mousemove com o textshado
 
 ### **17 - Ordenando nomes sem artigos**
 O objetivo era exercitar o uso do método sort com expressões regulares.
+
+### **18 - Somando durações com reduce**
+Aqui, o objetivo era manipular arrays, convertendo strings em números e depois somando eles com reduce.
