@@ -55,3 +55,6 @@ O objetivo era exercitar o uso do método sort com expressões regulares.
 
 ### **18 - Somando durações com reduce**
 Aqui, o objetivo era manipular arrays, convertendo strings em números e depois somando eles com reduce.
+
+### **19 - Webcam Fun**
+Não irei adicionar o dia 19 por questões de segurança, agradeço a compreensão.
