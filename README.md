@@ -61,3 +61,12 @@ Não irei adicionar o dia 19 por questões de segurança, agradeço a compreens�
 
 ### **20 - Reconhecimento de fala**
 Também não irei adicionar o dia 20 por questões de segurança e também por incompatibilidades com a maioria dos navegadores.
+
+### **21 - Acelerômetro baseado na geolocalização**
+Também não irei adicionar o dia 21 por questões de segurança e privacidade.
+
+### **22 - Follow along link**
+Basicamente o objetivo é aprender como usar o transform do CSS para aplicar um efeito quando ocorre eventos específicos.
+
+### **23 - Sintetizador de voz (aka. voz do Google Tradutor)**
+Em breve.
