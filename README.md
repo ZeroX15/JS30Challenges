@@ -58,3 +58,6 @@ Aqui, o objetivo era manipular arrays, convertendo strings em números e depois 
 
 ### **19 - Webcam Fun**
 Não irei adicionar o dia 19 por questões de segurança, agradeço a compreensão.
+
+### **20 - Reconhecimento de fala**
+Também não irei adicionar o dia 20 por questões de segurança e também por incompatibilidades com a maioria dos navegadores.
