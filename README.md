@@ -69,4 +69,4 @@ Também não irei adicionar o dia 21 por questões de segurança e privacidade.
 Basicamente o objetivo é aprender como usar o transform do CSS para aplicar um efeito quando ocorre eventos específicos.
 
 ### **23 - Sintetizador de voz (aka. voz do Google Tradutor)**
-Em breve.
+Este envolve muitas funcionalidades, uma delas é a funcionalidade nativa speechSynthesis.
