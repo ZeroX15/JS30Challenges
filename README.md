@@ -78,4 +78,7 @@ Este é uma forma de manter a barra de navegação acompanhando a página durant
 Aqui é mostrado algumas propriedades dos eventListeners.
 
 ### **26 - Stripe Follow Aong Nav**
+Basicamente o objetivo era melhorar a barra de navegação onde quando passa o mouse, ele revela algo, e quando o mouse vai pra outro tópico ele revela outra coisa, ocultando o anterior.
+
+### **27 - Clicar e arrastar**
 Em breve.
