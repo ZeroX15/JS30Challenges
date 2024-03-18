@@ -70,3 +70,12 @@ Basicamente o objetivo é aprender como usar o transform do CSS para aplicar um 
 
 ### **23 - Sintetizador de voz (aka. voz do Google Tradutor)**
 Este envolve muitas funcionalidades, uma delas é a funcionalidade nativa speechSynthesis.
+
+### **24 - Sticky Nav**
+Este é uma forma de manter a barra de navegação acompanhando a página durante o rolamento da página.
+
+### **25 - Propagação de eventos, encapsulamento e Once**
+Aqui é mostrado algumas propriedades dos eventListeners.
+
+### **26 - Stripe Follow Aong Nav**
+Em breve.
