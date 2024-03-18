@@ -81,4 +81,7 @@ Aqui é mostrado algumas propriedades dos eventListeners.
 Basicamente o objetivo era melhorar a barra de navegação onde quando passa o mouse, ele revela algo, e quando o mouse vai pra outro tópico ele revela outra coisa, ocultando o anterior.
 
 ### **27 - Clicar e arrastar**
+O objetivo era exercitar sobre as coordenadas de mouse e os eventos de mouse com um scroller de conteúdo.
+
+### **28 - UI de controlador de velocidade do vídeo**
 Em breve.
