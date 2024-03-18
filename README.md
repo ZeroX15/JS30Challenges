@@ -84,4 +84,4 @@ Basicamente o objetivo era melhorar a barra de navegação onde quando passa o m
 O objetivo era exercitar sobre as coordenadas de mouse e os eventos de mouse com um scroller de conteúdo.
 
 ### **28 - UI de controlador de velocidade do vídeo**
-Em breve.
+O objetivo era exercitar a aplicação de coordenadas e transformá-las em taxas de velocidade de um vídeo.
