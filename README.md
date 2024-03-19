@@ -88,3 +88,6 @@ O objetivo era exercitar a aplicação de coordenadas e transformá-las em taxas
 
 ### **29 - Contagem regressiva**
 Aqui, o objetivo era exercitar sobre o Date para criar um relógio de contagem regressiva.
+
+### **30 - Whack-a-mole**
+O objetivo era exercitar sobre o uso de variáveis randomizadas.
