@@ -85,3 +85,6 @@ O objetivo era exercitar sobre as coordenadas de mouse e os eventos de mouse com
 
 ### **28 - UI de controlador de velocidade do vídeo**
 O objetivo era exercitar a aplicação de coordenadas e transformá-las em taxas de velocidade de um vídeo.
+
+### **29 - Contagem regressiva**
+Aqui, o objetivo era exercitar sobre o Date para criar um relógio de contagem regressiva.
